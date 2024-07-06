@@ -1,0 +1,5 @@
+index.js is the page u see after npm run dev
+
+auth0
+
+https://manage.auth0.com/dashboard/us/dev-xs72udy2d3tdb8ni/applications/HNqKIbQSPEaW0x7SQ5VgAXUnbsaqXulf/settings

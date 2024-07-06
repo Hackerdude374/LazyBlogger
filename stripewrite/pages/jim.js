@@ -1,13 +1,12 @@
 
 //home page
-
-// Home page
-
 export default function Home() {
   return (
     <div>
-   Hello
-   
+
+      <h1>
+this is the jim page
+   </h1>
       <div />
     </div>
   );
